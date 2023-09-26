@@ -1,0 +1,223 @@
+1*BASIC*false*true*
+2	*Visa*false*false*
+3	*Passport*false*false*
+4	  *  Tickets    *  false  *  false  *
+5	*  Wallet *  false  *  false  *
+6	*  Drivers licence    *  false  *  false  *
+7	*  Currency   *  false  *  false  *
+8	*  House keys *  false  *  false  *
+9	*  Travel pillow  *  false  *  false  *
+10	 *  Eye patch  *  false  *  false  *
+11	*  Umbrella   *  false  *  false  *
+12	*  Notebook   *  false  *  false  *
+13	 *  Documents & itinary copies *  false  *  false  *
+14	 *  Money & credit cards   *  false  *  false  *
+15	 *  Travel insurance   *  false  *  false  *
+16	 *  Turn off electricity & water   *  false  *  false  *
+17	 *  Give holiday address to witness    *  false  *  false  *
+18	 *  Turn on emailing assistant *  false  *  false  *
+19	 *  Sitter for plants and animals  *  false  *  false  *
+20	*  Make backup of pc data *  false  *  false  *
+21	*  Take care of financial bills   *  false  *  false  *
+22	*  Emergency numbers  *  false  *  false  *
+23	 *  Hotel reservation  *  false  *  false  *
+24	 *  Insurance  *  false  *  false  *
+25	*  CLOTHING   *  false  *  false  *
+26	*  Underwears *  false  *  false  *
+27	 *  Stockings  *  false  *  false  *
+28	*  Pajamas    *  false  *  false  *
+29	 *  Camouflage clothes *  false  *  false  *
+30	*  T-shirt    *  false  *  false  *
+31	*  Casual dress   *  false  *  false  *
+32	*  Evening dress  *  false  *  false  *
+33	*  Shirt  *  false  *  false  *
+34	*  Cardigan   *  false  *  false  *
+35	 *  Vest   *  false  *  false  *
+36	 *  Jacket *  false  *  false  *
+37	*  Skirt  *  false  *  false  *
+38	*  Trousers   *  false  *  false  *
+39	 *  Socks  *  false  *  false  *
+40	*  Jeans  *  false  *  false  *
+41	 *  BABY NEEDS *  false  *  false  *
+42	*  Snapsuit   *  false  *  false  *
+43	 *  Jumpsuit   *  false  *  false  *
+44	*  Baby socks *  false  *  false  *
+45	 *  Baby hat   *  false  *  false  *
+46	*  Baby pajamas   *  false  *  false  *
+47	*  Towel  *  false  *  false  *
+48	 *  Blanket    *  false  *  false  *
+49	*  Bib    *  false  *  false  *
+50	*  Laundry detergent  *  false  *  false  *
+51	*  Bottle *  false  *  false  *
+52	*  Thermomether   *  false  *  false  *
+53	*  Bottle deatergent brushes  *  false  *  false  *
+54	*  HEALTH *  false  *  false  *
+55	*  Aspirin    *  false  *  false  *
+56	*  Drugs used *  false  *  false  *
+57	*  Vitamins   *  false  *  false  *
+58	*  Lens solutions *  false  *  false  *
+59	 *  Condom *  false  *  false  *
+60	*  Hot water bag  *  false  *  false  *
+61	*  Adhesive plaster   *  false  *  false  *
+62	*  First aid kit  *  false  *  false  *
+63	*  Replacement lens   *  false  *  false  *
+64	*  Insulin and ice packs  *  false  *  false  *
+65	*  TOILETRIES *  false  *  false  *
+66	*  Wipes  *  false  *  false  *
+67	 *  Feminie cup    *  false  *  false  *
+68	*  Toothpaste *  false  *  false  *
+69	*  2 roll toilet paper    *  false  *  false  *
+70	*  Wash cloths    *  false  *  false  *
+71	 *  Hairbrush  *  false  *  false  *
+72	 *  Deoderant  *  false  *  false  *
+73	 *  Toothbrush *  false  *  false  *
+74	*  Toothpaste *  false  *  false  *
+75	*  Shower gel *  false  *  false  *
+76	*  Wipes  *  false  *  false  *
+77	 *  Body lotion    *  false  *  false  *
+78	 *  Shower cap *  false  *  false  *
+79	*  Towel  *  false  *  false  *
+80	*  Soap bar   *  false  *  false  *
+81	*  TECHNOLOGY *  false  *  false  *
+82	*  Mobile phone   *  false  *  false  *
+83	*  Mobile phone charger   *  false  *  false  *
+84	*  Dvd player *  false  *  false  *
+85	*  Flash light    *  false  *  false  *
+86	 *  E-book reader  *  false  *  false  *
+87	 *  Camera *  false  *  false  *
+88	*  Camera charger *  false  *  false  *
+89	*  Small speaker  *  false  *  false  *
+90	*  ipad   *  false  *  false  *
+91	*  Flash light head lamp  *  false  *  false  *
+92	 *  Headphone  *  false  *  false  *
+93	*  Laptop *  false  *  false  *
+94	*  Laptop charger *  false  *  false  *
+95	*  Mouse  *  false  *  false  *
+96	*  Battery recharger  *  false  *  false  *
+97	*  Solar chargers *  false  *  false  *
+98	 *  Spare batteries    *  false  *  false  *
+99	*  Kindle *  false  *  false  *
+100	 *  2 way radio    *  false  *  false  *
+101	 *  CAMPING EQUIPMENT  *  false  *  false  *
+102	*  Backpack   *  false  *  false  *
+103	*  Tent   *  false  *  false  *
+104	 *  Sleeping bag   *  false  *  false  *
+105	*  Sleep pad  *  false  *  false  *
+106	*  Hiking boots   *  false  *  false  *
+107	 *  Insulating jacket  *  false  *  false  *
+108	 *  Water  *  false  *  false  *
+109	*  Buckets    *  false  *  false  *
+110	*  Fire Kit   *  false  *  false  * /firekit
+111	 *  Tools  *  false  *  false  * /tools
+112	 *  Other  *  false  *  false  * /other
+113	 *  Plastic bags   *  false  *  false  *
+114	 *  Pot    *  false  *  false  *
+115	 *  Laundry bag and pegs   *  false  *  false  *
+116	 *  Clothe line    *  false  *  false  *
+117	 *  Charcoal   *  false  *  false  *
+118	 *  Lifestraw  *  false  *  false  *
+119	 *  Pan    *  false  *  false  *
+120	 *  Tin cups   *  false  *  false  *
+121	*  knife, forks, cutting board    *  false  *  false  *
+122	*  Privacy curtain    *  false  *  false  *
+123	 *  CAMP CLEANING AIDS *  false  *  false  *
+124	 *  bleach *  false  *  false  *
+125	 *  baking soda    *  false  *  false  *
+126	*  vinegar - disinfectant *  false  *  false  *
+127	  *  Sunlight soap  *  false  *  false  *
+128	 *  CAMPING COMMUNICATIONS *  false  *  false  *
+129	*  Map    *  false  *  false  *
+130	*  Whistles   *  false  *  false  *
+131	 *  Sign language  *  false  *  false  *
+132	*  Radio  *  false  *  false  *
+133	*  CAMPING MEALS  *  false  *  false  *
+134	 *  Drinks *  false  *  false  *
+135	 *  Foods  *  false  *  false  * /foods
+136	 *  CAMPING PETS   *  false  *  false  *
+137	 *  Sandbox    *  false  *  false  *
+138	*  Pellets    *  false  *  false  *
+139	  *  Food and water bowel   *  false  *  false  *
+140	 *  Natural flea repellant *  false  *  false  *
+141	 *  BEACH SUPPLIES *  false  *  false  *
+142	*  sea glasses    *  false  *  false  *
+143	  *  sea bed    *  false  *  false  *
+144	 *  suntan lotion  *  false  *  false  *
+145	 *  beach umbrella *  false  *  false  *
+146	*  swim fins  *  false  *  false  *
+147	 *  beach bag  *  false  *  false  *
+148	 *  beach towels   *  false  *  false  *
+149	 *  beach slippers *  false  *  false  *
+150	*  sunbed *  false  *  false  *
+151	 *  waterproof clock   *  false  *  false  *
+152	  *  CAR SUPPLIES   *  false  *  false  *
+153	 *  Fuel   *  false  *  false  *
+154	 *  Cell phone car charger *  false  *  false  *
+155	*  EMIGRATION 18 MONTHS   *  false  *  false  *
+156	 *  Find desirable places to live in   *  false  *  false  *
+157	 *  Moving budget  *  false  *  false  *
+158	 *  Scout job/business opportunities   *  false  *  false  *
+159	 *  Registered migration agent *  false  *  false  *
+160	*  Fill out your visa forms   *  false  *  false  *
+161	*  Research visa types    *  false  *  false  *
+162	*  Visit place first  *  false  *  false  *
+163	 *  Prepare medical docs   *  false  *  false  *
+164	 *  Prepare current home for sale  *  false  *  false  *
+165	 *  EMIGRATION 12 MONTHS   *  false  *  false  *
+166	*  Valid passports    *  false  *  false  *
+167	*  Apply for visa nomination  *  false  *  false  *
+168	*  Complete visa application forms    *  false  *  false  *
+169	*  Inform schools about move  *  false  *  false  *
+170	 *  Talk to folks about move   *  false  *  false  *
+171	 *  Finalise banks and clear debts *  false  *  false  *
+172	*  Costs for move *  false  *  false  *
+173	 *  Country's customs/quarantine   *  false  *  false  *
+174	*  Begin packing non-regular  *  false  *  false  *
+175	*  Emigration - 6 months  *  false  *  false  *
+176	 *  Put your houseup for sale  *  false  *  false  *
+177	*  Check rental notice period *  false  *  false  *
+178	*  Sell or donate goods   *  false  *  false  *
+179	*  Pet relocation plans   *  false  *  false  *
+180	 *  Inform employer of your plans  *  false  *  false  *
+181	 *  Medical & police checks    *  false  *  false  *
+182	*  Create or update will  *  false  *  false  *
+183	*  Copies of medical records  *  false  *  false  *
+184	 *  Bank credit references *  false  *  false  *
+185	*  Choose likely new home *  false  *  false  *
+186	*  Investigate new schools    *  false  *  false  *
+187	*  EMIGRATION 2 MONTHS    *  false  *  false  *
+188	 *  Book temp accomodation *  false  *  false  *
+189	 *  Investigate transport options  *  false  *  false  *
+190	*  Book your pets *  false  *  false  *
+191	*  Update your cv *  false  *  false  *
+192	*  Contact potential employers    *  false  *  false  *
+193	*  Obtain nb docs *  false  *  false  *
+194	*  Insurance cover    *  false  *  false  *
+195	 *  Settle legal matters   *  false  *  false  *
+196	*  Prepare  storage   *  false  *  false  *
+197	*  Confirm date with removalists  *  false  *  false  *
+198	 *  EMIGRATION 1 MONTH *  false  *  false  *
+199	 *  Sell or store your car *  false  *  false  *
+200	*  Arrange mail redirection   *  false  *  false  *
+201	*  Secure travel file *  false  *  false  *
+202	 *  Finanalize your money  *  false  *  false  *
+203	 *  Set foreign bank account   *  false  *  false  *
+204	 *  Stock your meds    *  false  *  false  *
+205	*  Vaccination certificates   *  false  *  false  *
+206	 *  Private health & insurance *  false  *  false  *
+207	 *  EMIGRATION 2 WEEKS *  false  *  false  *
+208	*  Confirm temp accomodation  *  false  *  false  *
+209	 *  Obtain some foreign cash   *  false  *  false  *
+210	  *  Finish packing non-essentials  *  false  *  false  *
+211	*  Back up computer files *  false  *  false  *
+212	 *  EMIGRATION 1 WEEK  *  false  *  false  *
+213	 *  Organise lift to airport   *  false  *  false  *
+214	 *  Pack board luggage *  false  *  false  *
+215	  *  Leave info for new home owners *  false  *  false  *
+216	  *  BLACKOUT   *  false  *  false  *  /blackout
+217	*  Know where to withdraw *  false  *  false  *
+218	*  Charged electronics    *  false  *  false  *
+219	*  Vehicle fuel   *  false  *  false  *
+220	*  Member ship card   *  false  *  false  *
+221	*  Learn convoy driving   *  false  *  false  *
+222	*  Radio communication    *  false  *  false  *
+223	 *  Know camping setup *  false  *  false  *

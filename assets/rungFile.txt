@@ -1,0 +1,12 @@
+1*Shopping List*false*true* *false
+2*Milk*false*false* *false
+3*Bread*false*false* *false
+4*Butter*false*false* *false
+5*Camping items*false*true* *false
+6*Tent*false*false* *false
+7*Camping mattress*false*false* *false
+8*Fire Kit*false*false*/firekit*false
+9*Tools*false*false*/tools*false
+10*Other*false*false*/other*false
+11*Travel pillow*false*false* *false
+12*Water bottle*false*false* * false
